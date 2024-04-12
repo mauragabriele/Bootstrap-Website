@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+body
+{
+	background-color:cornsilk
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;	
+}
+h2
+{
+	color:burlywood;
+	font-size:42px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+h3
+{
+	color:tan;
+	font-size: 24px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+div
+{text-align: center}
+body
+{
+	background-color:cornsilk;
+}
+header
+{
+	background-color: burlywood;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+nav
+{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color: blanchedalmond;
+}
